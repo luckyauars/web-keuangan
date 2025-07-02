@@ -54,7 +54,7 @@ Dibangun menggunakan framework **Laravel 12**, aplikasi ini menjamin kinerja yan
 ```bash
 git clone https://github.com/luckyauars/web-keuangan.git
 cd web-keuangan
-
+```
 
 ---
 
@@ -63,6 +63,7 @@ cd web-keuangan
 | Nama | Email | GitHub |
 |------|-------|--------|
 | Lucky test | luckytest@gmail.com | [@luckyauars](https://github.com/luckyauars) |
+| [Kontak Pribadi (WhatsApp)](https://wa.me/+6285172042715)
 
 ---
 
