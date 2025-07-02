@@ -63,7 +63,7 @@ cd web-keuangan
 | Nama | Email | GitHub |
 |------|-------|--------|
 | Lucky test | luckytest@gmail.com | [@luckyauars](https://github.com/luckyauars) |
-| [Kontak Pribadi (WhatsApp)](https://wa.me/+6285172042715)
+| [Kontak Pribadi (WhatsApp)](https://wa.me/+62851720427158989)
 
 ---
 
