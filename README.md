@@ -63,7 +63,7 @@ cd web-keuangan
 | Nama | Email | GitHub |
 |------|-------|--------|
 | Lucky test | luckytest@gmail.com | [@luckyauars](https://github.com/luckyauars) |
-| [Kontak Pribadi (WhatsApp)](https://wa.me/+62851720427158989)
+| [Kontak Pribadi (WhatsApp)](https://wa.me/+6285172042715)
 
 ---
 
@@ -71,4 +71,4 @@ cd web-keuangan
 
 Untuk dokumentasi tambahan dan file-file pendukung lainnya, silakan akses melalui tautan Google Drive berikut:
 
-- 📂 [Folder Dokumentasi Project (Google Drive)](https://drive.google.com/drive/folders/1WLzC6AdkOGgffdrvLLl3W61DQB5n7UGr?usp=sharing)
+- 📂 [Folder Dokumentasi Project (Google Drive)](https://drive.google.com/drive/folders/1WLzC6Ad8989OGgffdrvLLl3W61DQB5n7UGr?usp=sharing)
