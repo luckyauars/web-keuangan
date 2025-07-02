@@ -1,20 +1,19 @@
-# Web Keuangan
+<p align="center">
+  <img src="https://laravel.com/img/logomark.min.svg" width="100" alt="Laravel logo">
+</p>
 
-Aplikasi pencatatan transaksi keuangan sederhana berbasis Laravel.
+<h1 align="center">📊 Website Keuangan Pribadi – Laravel 12</h1>
 
-## ✨ Fitur Utama
+<p align="center">
+  Aplikasi pencatatan transaksi keuangan pribadi berbasis Laravel 12. Dirancang oleh Luckyauars untuk mencatat pemasukan, pengeluaran, dan menghasilkan laporan transaksi secara real-time.
+</p>
 
-- Login & Register (Jetstream)
-- Manajemen Akun Keuangan (Kas, Bank, E-Wallet)
-- Manajemen Kategori Transaksi (Masuk & Keluar)
-- Input Transaksi Keuangan (dengan bukti dan deskripsi)
-- Filter & Tabel Daftar Transaksi
-- Laporan Transaksi Bulanan (Preview & Unduh PDF / Excel)
-- Multi Role (Admin bisa lihat semua user, User hanya miliknya)
+---
 
-## ⚙️ Instalasi
+## 🚀 Cara Menjalankan Proyek
 
-1. **Clone repo ini:**
-   ```bash
-   git clone https://github.com/luckyauars/web-keuangan.git
-   cd web-keuangan
+### 1. Clone Repositori
+
+```bash
+git clone https://github.com/luckyauars/web-keuangan.git
+cd web-keuangan
