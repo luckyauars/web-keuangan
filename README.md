@@ -54,3 +54,20 @@ Dibangun menggunakan framework **Laravel 12**, aplikasi ini menjamin kinerja yan
 ```bash
 git clone https://github.com/luckyauars/web-keuangan.git
 cd web-keuangan
+
+
+---
+
+## 👨‍💻 Developer
+
+| Nama | Email | GitHub |
+|------|-------|--------|
+| Lucky test | luckytest@gmail.com | [@luckyauars](https://github.com/luckyauars) |
+
+---
+
+## 👨‍💻 Pengembang & Dokumentasi Tambahan
+
+Untuk dokumentasi tambahan dan file-file pendukung lainnya, silakan akses melalui tautan Google Drive berikut:
+
+- 📂 [Folder Dokumentasi Project (Google Drive)](https://drive.google.com/drive/folders/1WLzC6AdkOGgffdrvLLl3W61DQB5n7UGr?usp=sharing)
